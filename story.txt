@@ -3,3 +3,6 @@ It was a long and arduous journey but I have finally made it here. I am excited 
 but I am full of spirit! I am currently living in Wisconsin-Madison hoping to have fun in this amazing college! 
 
 I've been through a great semester here. However, the in-person class meetings are suspended due to Corona virus. Hope that everything gets better soon.
+
+If things do not get better soon, we will not have in-person class meetings for the rest of the semester and many people will have to remain at home or elsewhere. I am unsure how they are going to handle
+exams, labs, and other in-person events like the CS400 xAthon.
